@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sena.donmez@student.hogent.be**
 
-- 📄 Know about my experiences [https://github.com/sdnmez/sdnmez/blob/main/cv.pdf](https://github.com/sdnmez/sdnmez/blob/main/cv.pdf)
+- 📄 Know about my experiences [CV link](https://github.com/sdnmez/sdnmez/blob/main/cv.pdf)
 
 - ⚡ Fun fact **I am a metalhead girly**
 
